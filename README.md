@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Telehealth Application**
 
-- 🌱 I’m currently Working **Spring Boot ,Microservices ,Aws ,Docker**
+- 🌱 I’m currently Working **Spring Boot ,Microservices ,Aws ,Docker**.
 
 - 📫 How to reach me **sanyasimuni03@gmail.com**
 
